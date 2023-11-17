@@ -43,4 +43,4 @@ The game will start, and you can control the player's spaceship using the arrow 
 
 ## Credits
 
-This game was created by [Your Name]. It's a project for learning game development using JavaScript. Feel free to contribute or modify the code as needed.
+This game was created by @stupot2d. It's a project for learning game development using JavaScript. Feel free to contribute or modify the code as needed.
